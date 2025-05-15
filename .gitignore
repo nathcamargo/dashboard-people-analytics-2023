@@ -172,3 +172,32 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignore arquivos de backup do Power BI
+*.pbix~
+*.pbit~
+*.pbix.autosave
+
+# Ignore arquivos temporários
+*.tmp
+*.bak
+*.cache
+*.log
+
+# Ignore pastas de ambiente virtual (Python)
+.venv/
+env/
+venv/
+
+# Ignore arquivos do Jupyter (se usar)
+.ipynb_checkpoints/
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore arquivos ocultos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
