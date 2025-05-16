@@ -30,7 +30,7 @@ A empresa fictícia enfrentava desafios comuns no ambiente corporativo: Turnover
 ![Dashboard de RH](https://github.com/nathcamargo/dashboard-people-analytics-2023/blob/main/Dash_IndicadoresRH_Geral2023.png)
 
 ## 🚀 Como Abrir o Projeto
-1. Baixar o arquivo `.pbix` em `/outputs/`.
+1. Baixar o arquivo `.pbix`.
 2. Abrir no Power BI Desktop.
 3. Explorar filtros e interações.
 
