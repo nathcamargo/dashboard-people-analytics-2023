@@ -1,0 +1,121 @@
+ID,Nome,Sexo,Estado Civil,Data de Nascimento,Departamento,Cargo,Salário,Status do Emprego,Data de Admissão,Data de Desligamento,Motivo do Desligamento,Fonte de Recrutamento,Avaliação de Desempenho,Satisfação no Trabalho,Faltas,Atrasos (últimos 30 dias),Projetos Especiais,Diversidade,Raça/Cor,Nacionalidade
+1,Enrico Pereira,Feminino,Viúvo,1998-06-21,Financeiro,Gerente,6714,Desligado,2021-08-01,2023-10-11,Aposentadoria,Feira de Talentos,Excelente,4.5,20,3,3,Sim,Pardo,Estrangeiro
+2,Vitor Lima,Masculino,Divorciado,1998-03-19,Comercial,Assistente,15226,Ativo,2022-08-18,,,Agência de Empregos,Ruim,4.9,6,10,5,Sim,Pardo,Estrangeiro
+3,Sr. Eduardo Castro,Feminino,Viúvo,1993-09-15,TI,Assistente,4607,Desligado,2023-09-19,2024-12-14,Desempenho,Feira de Talentos,Regular,2.4,0,7,3,Não,Branco,Brasileiro
+4,Bryan Fogaça,Masculino,Solteiro,1995-11-18,TI,Diretor,18987,Ativo,2017-04-21,,,Site da Empresa,Ruim,4.2,11,1,1,Sim,Pardo,Estrangeiro
+5,João Miguel Teixeira,Feminino,Casado,1976-05-21,Comercial,Coordenador,4887,Desligado,2024-05-06,2025-05-02,Aposentadoria,Feira de Talentos,Regular,3.0,2,8,0,Não,Amarelo,Estrangeiro
+6,Dr. Renan Vieira,Masculino,Casado,1988-07-26,Logística,Assistente,4837,Ativo,2019-10-25,,,Site da Empresa,Bom,2.6,18,7,0,Sim,Amarelo,Brasileiro
+7,Júlia Gomes,Masculino,Viúvo,1964-09-20,Comercial,Assistente,9431,Desligado,2020-02-26,2021-02-28,Reestruturação,Agência de Empregos,Bom,2.6,13,0,4,Não,Amarelo,Brasileiro
+8,Nina Cardoso,Feminino,Viúvo,1978-11-08,Marketing,Gerente,15425,Ativo,2018-12-31,,,LinkedIn,Bom,3.9,19,9,4,Sim,Branco,Brasileiro
+9,Kaique Lima,Feminino,Viúvo,1994-04-10,TI,Assistente,11065,Desligado,2022-05-09,2023-07-24,Aposentadoria,Agência de Empregos,Regular,3.9,0,0,2,Não,Amarelo,Estrangeiro
+10,Larissa Mendes,Masculino,Solteiro,1983-03-12,Financeiro,Diretor,10003,Ativo,2022-04-02,,,Indicação,Regular,4.1,1,4,2,Não,Pardo,Brasileiro
+11,Marcela Mendes,Masculino,Casado,1967-05-08,TI,Analista,7342,Ativo,2017-05-15,,,Site da Empresa,Bom,4.2,17,7,4,Não,Indígena,Brasileiro
+12,João Miguel Jesus,Feminino,Casado,2004-09-22,Comercial,Assistente,4192,Desligado,2018-10-20,2022-08-12,Pedido do Funcionário,Feira de Talentos,Bom,2.9,13,4,0,Sim,Indígena,Brasileiro
+13,Diego Castro,Feminino,Solteiro,1991-09-24,TI,Diretor,7047,Desligado,2019-09-12,2021-02-13,Pedido do Funcionário,Indicação,Regular,4.0,12,7,1,Sim,Branco,Estrangeiro
+14,Maria Julia das Neves,Masculino,Solteiro,1964-12-06,Financeiro,Coordenador,15093,Desligado,2018-12-05,2024-04-22,Desempenho,Agência de Empregos,Bom,2.4,12,8,3,Sim,Preto,Brasileiro
+15,Lucas Caldeira,Masculino,Solteiro,1994-08-02,Comercial,Analista,10213,Desligado,2022-07-30,2023-12-01,Pedido do Funcionário,Site da Empresa,Regular,4.1,14,7,0,Não,Amarelo,Brasileiro
+16,João Guilherme Barros,Feminino,Casado,1991-12-28,Comercial,Gerente,3098,Ativo,2021-01-17,,,Feira de Talentos,Bom,3.3,19,4,5,Sim,Amarelo,Estrangeiro
+17,Yasmin Dias,Feminino,Divorciado,2001-10-23,Comercial,Analista,18027,Desligado,2023-06-07,2024-03-16,Aposentadoria,LinkedIn,Bom,2.4,6,8,4,Sim,Pardo,Estrangeiro
+18,Luiz Gustavo Ribeiro,Feminino,Casado,1982-03-08,Recursos Humanos,Analista,11840,Desligado,2022-05-04,2023-05-02,Desempenho,LinkedIn,Excelente,2.7,5,8,2,Não,Indígena,Brasileiro
+19,João Guilherme Cardoso,Feminino,Divorciado,1993-10-12,Financeiro,Diretor,17894,Desligado,2021-04-17,2021-10-04,Pedido do Funcionário,Agência de Empregos,Regular,2.5,2,0,2,Não,Pardo,Brasileiro
+20,Sr. Marcos Vinicius Gonçalves,Masculino,Solteiro,2003-11-08,Recursos Humanos,Analista,4532,Desligado,2016-10-11,2024-01-17,Aposentadoria,Feira de Talentos,Ruim,3.3,12,4,4,Sim,Amarelo,Estrangeiro
+21,Carlos Eduardo Santos,Feminino,Solteiro,1981-04-04,TI,Gerente,8989,Desligado,2021-03-09,2025-05-02,Aposentadoria,Agência de Empregos,Ruim,4.2,13,10,0,Sim,Amarelo,Brasileiro
+22,Dra. Bianca Monteiro,Masculino,Viúvo,1987-02-16,Financeiro,Analista,9190,Ativo,2016-10-05,,,Feira de Talentos,Excelente,3.2,4,2,5,Não,Indígena,Brasileiro
+23,Ryan Rezende,Feminino,Viúvo,1978-03-25,Financeiro,Diretor,12587,Desligado,2021-06-14,2024-12-16,Desempenho,Agência de Empregos,Regular,3.6,1,9,2,Não,Branco,Brasileiro
+24,Samuel Farias,Feminino,Divorciado,2000-10-26,Marketing,Coordenador,6027,Desligado,2015-07-17,2015-11-03,Pedido do Funcionário,Indicação,Excelente,2.3,15,6,3,Não,Amarelo,Estrangeiro
+25,Gustavo Rocha,Masculino,Viúvo,1988-09-01,Marketing,Analista,8831,Desligado,2021-06-24,2025-04-03,Pedido do Funcionário,LinkedIn,Excelente,4.2,17,5,1,Sim,Pardo,Estrangeiro
+26,Dr. Felipe Cavalcanti,Masculino,Divorciado,2002-11-15,Logística,Assistente,2896,Ativo,2020-12-16,,,Agência de Empregos,Bom,4.8,20,6,5,Não,Amarelo,Estrangeiro
+27,João Felipe Porto,Feminino,Divorciado,1986-06-13,Recursos Humanos,Assistente,8590,Desligado,2023-06-25,2024-03-17,Desempenho,Indicação,Bom,4.3,4,9,4,Não,Pardo,Brasileiro
+28,Helena Ferreira,Feminino,Viúvo,1973-05-10,Marketing,Gerente,16495,Desligado,2015-12-15,2018-12-06,Desempenho,Feira de Talentos,Ruim,3.4,9,5,3,Não,Pardo,Estrangeiro
+29,Sophia Mendes,Feminino,Solteiro,1987-07-14,Logística,Assistente,8914,Ativo,2023-01-01,,,Agência de Empregos,Bom,5.0,0,1,3,Sim,Preto,Estrangeiro
+30,Valentina Moraes,Masculino,Viúvo,1974-12-06,TI,Diretor,15952,Desligado,2021-09-07,2024-06-07,Desempenho,Site da Empresa,Excelente,4.0,0,9,5,Não,Preto,Brasileiro
+31,Pietra Cunha,Feminino,Divorciado,1971-12-18,Recursos Humanos,Assistente,9985,Desligado,2018-12-06,2025-03-14,Aposentadoria,Agência de Empregos,Regular,3.9,2,7,2,Sim,Preto,Brasileiro
+32,Dra. Gabriela Nascimento,Masculino,Solteiro,1967-01-29,Logística,Assistente,5772,Desligado,2018-08-13,2024-12-02,Aposentadoria,Feira de Talentos,Excelente,2.9,9,3,4,Não,Branco,Brasileiro
+33,Clarice Nunes,Feminino,Solteiro,1997-11-20,TI,Assistente,13771,Ativo,2018-12-12,,,Indicação,Ruim,4.9,5,2,2,Sim,Indígena,Estrangeiro
+34,Ian Araújo,Feminino,Solteiro,1982-08-28,Recursos Humanos,Coordenador,18212,Desligado,2018-04-13,2021-04-17,Desempenho,Feira de Talentos,Regular,3.8,0,5,1,Sim,Amarelo,Estrangeiro
+35,Clara Pereira,Feminino,Divorciado,1980-06-07,Comercial,Coordenador,15571,Ativo,2018-12-16,,,Indicação,Ruim,2.3,8,6,3,Não,Pardo,Estrangeiro
+36,Vitória Sales,Masculino,Casado,1984-09-30,TI,Coordenador,19130,Ativo,2015-08-27,,,Feira de Talentos,Ruim,3.0,17,8,4,Não,Branco,Estrangeiro
+37,Srta. Eloah da Paz,Feminino,Divorciado,1972-04-06,Financeiro,Diretor,15715,Ativo,2020-05-25,,,Site da Empresa,Regular,3.8,7,10,2,Sim,Amarelo,Estrangeiro
+38,Camila das Neves,Masculino,Casado,1984-05-25,TI,Coordenador,13098,Desligado,2021-10-21,2025-02-13,Desempenho,Feira de Talentos,Bom,3.8,8,7,3,Não,Branco,Estrangeiro
+39,João Pedro Carvalho,Masculino,Divorciado,1983-03-16,Recursos Humanos,Gerente,4805,Ativo,2020-10-22,,,Feira de Talentos,Bom,2.6,2,8,5,Sim,Indígena,Estrangeiro
+40,Sra. Isadora Aragão,Masculino,Viúvo,2000-08-15,Financeiro,Gerente,18578,Desligado,2018-09-18,2021-09-10,Aposentadoria,Site da Empresa,Excelente,4.8,12,0,2,Não,Amarelo,Brasileiro
+41,Pedro Cardoso,Feminino,Divorciado,1987-05-12,Financeiro,Diretor,3241,Desligado,2022-03-17,2023-02-22,Desempenho,LinkedIn,Regular,3.9,14,7,0,Sim,Indígena,Brasileiro
+42,Srta. Luna Mendes,Feminino,Solteiro,1997-11-09,TI,Coordenador,11533,Ativo,2020-04-15,,,LinkedIn,Bom,2.6,8,1,5,Não,Preto,Brasileiro
+43,Caio Alves,Masculino,Divorciado,1996-06-08,Marketing,Gerente,14650,Desligado,2018-12-13,2020-08-18,Pedido do Funcionário,Indicação,Bom,2.2,3,7,5,Não,Preto,Brasileiro
+44,Caio das Neves,Feminino,Casado,1975-11-04,Comercial,Diretor,15456,Ativo,2023-05-01,,,Feira de Talentos,Bom,2.8,7,4,5,Não,Branco,Estrangeiro
+45,Dr. Luiz Fernando da Rosa,Masculino,Viúvo,2003-01-25,Logística,Gerente,11713,Ativo,2018-09-18,,,Indicação,Ruim,2.7,18,9,3,Sim,Pardo,Brasileiro
+46,Renan Araújo,Feminino,Divorciado,1969-09-17,Logística,Coordenador,4226,Desligado,2019-12-22,2024-11-26,Aposentadoria,Agência de Empregos,Ruim,2.2,1,10,4,Não,Branco,Estrangeiro
+47,Enzo Gabriel Ribeiro,Masculino,Casado,1997-04-25,Recursos Humanos,Analista,12928,Ativo,2024-02-02,,,Feira de Talentos,Excelente,2.1,4,5,2,Não,Preto,Brasileiro
+48,Enzo Gabriel Correia,Masculino,Divorciado,2001-10-13,Marketing,Gerente,15829,Desligado,2015-07-31,2016-03-01,Pedido do Funcionário,LinkedIn,Bom,3.2,12,4,5,Não,Amarelo,Estrangeiro
+49,Eduarda Castro,Masculino,Viúvo,1986-04-12,Logística,Analista,13471,Desligado,2015-10-25,2015-11-28,Reestruturação,LinkedIn,Regular,3.5,5,3,2,Sim,Indígena,Brasileiro
+50,Dra. Maria Cecília Cunha,Feminino,Divorciado,1995-01-02,Logística,Assistente,10484,Desligado,2016-05-02,2025-03-18,Desempenho,Indicação,Regular,4.9,7,5,0,Não,Pardo,Brasileiro
+51,Breno Sales,Feminino,Casado,1995-11-16,Recursos Humanos,Coordenador,17725,Desligado,2018-10-17,2023-09-21,Desempenho,LinkedIn,Regular,4.4,19,4,5,Sim,Branco,Estrangeiro
+52,João Felipe Castro,Masculino,Casado,1987-11-08,TI,Coordenador,11495,Desligado,2016-12-05,2021-09-26,Pedido do Funcionário,LinkedIn,Regular,4.1,1,7,3,Não,Indígena,Brasileiro
+53,Maria Vitória Ferreira,Feminino,Divorciado,2005-01-07,Recursos Humanos,Diretor,11123,Ativo,2017-09-24,,,Agência de Empregos,Excelente,4.6,8,6,5,Sim,Indígena,Brasileiro
+54,Alexia Araújo,Feminino,Casado,1969-04-12,Logística,Analista,17006,Desligado,2017-12-20,2021-02-05,Desempenho,Agência de Empregos,Ruim,3.3,1,0,0,Sim,Pardo,Estrangeiro
+55,Sr. Calebe Cardoso,Feminino,Divorciado,2002-04-19,Comercial,Analista,15113,Ativo,2024-03-28,,,Indicação,Excelente,4.1,12,3,4,Não,Pardo,Brasileiro
+56,Larissa Barbosa,Feminino,Viúvo,2004-02-17,TI,Assistente,6639,Ativo,2021-09-07,,,LinkedIn,Excelente,3.1,20,3,5,Não,Branco,Estrangeiro
+57,Sra. Maria Eduarda Moraes,Feminino,Solteiro,2003-08-02,Comercial,Gerente,15018,Desligado,2019-08-19,2019-11-19,Desempenho,LinkedIn,Ruim,3.1,12,9,2,Não,Branco,Estrangeiro
+58,Natália Pinto,Feminino,Divorciado,1967-11-07,Recursos Humanos,Analista,10957,Desligado,2018-01-02,2020-06-16,Desempenho,Feira de Talentos,Ruim,4.9,6,7,3,Não,Pardo,Estrangeiro
+59,Davi Lucca Gomes,Feminino,Viúvo,1978-06-28,Financeiro,Assistente,14867,Desligado,2023-07-10,2024-09-30,Pedido do Funcionário,Site da Empresa,Bom,2.9,10,0,4,Não,Preto,Brasileiro
+60,Mariana Pinto,Masculino,Divorciado,1974-08-08,TI,Diretor,6078,Desligado,2019-01-02,2021-03-18,Reestruturação,Site da Empresa,Excelente,2.0,5,10,1,Sim,Indígena,Brasileiro
+61,Kevin Almeida,Feminino,Solteiro,1972-08-13,Financeiro,Analista,5586,Desligado,2017-07-28,2018-09-08,Desempenho,Indicação,Ruim,4.4,11,8,3,Não,Pardo,Brasileiro
+62,Joaquim da Mata,Feminino,Divorciado,1998-12-26,Logística,Coordenador,17309,Desligado,2017-11-04,2020-03-03,Aposentadoria,Agência de Empregos,Bom,2.5,8,1,2,Sim,Pardo,Estrangeiro
+63,Francisco Santos,Feminino,Casado,1994-10-05,Marketing,Analista,19102,Ativo,2015-08-08,,,Agência de Empregos,Bom,3.5,3,4,3,Não,Amarelo,Brasileiro
+64,Eduardo Ribeiro,Masculino,Solteiro,2003-10-21,Financeiro,Gerente,10816,Desligado,2023-04-19,2024-06-27,Reestruturação,LinkedIn,Excelente,3.9,7,10,5,Não,Pardo,Brasileiro
+65,Davi Peixoto,Feminino,Casado,1999-05-03,Financeiro,Analista,13367,Ativo,2019-12-04,,,Site da Empresa,Regular,3.5,17,10,0,Sim,Preto,Estrangeiro
+66,Sr. Vitor Gabriel Cunha,Masculino,Divorciado,1980-02-27,Financeiro,Coordenador,7294,Desligado,2022-08-20,2023-12-07,Reestruturação,Site da Empresa,Regular,4.9,6,2,4,Sim,Indígena,Brasileiro
+67,João Gabriel Barbosa,Feminino,Divorciado,1972-05-07,Recursos Humanos,Diretor,8289,Desligado,2023-06-11,2023-06-27,Aposentadoria,Agência de Empregos,Excelente,3.2,17,3,4,Não,Indígena,Estrangeiro
+68,Cauã Aragão,Feminino,Divorciado,1988-01-26,TI,Coordenador,7879,Ativo,2021-07-01,,,Indicação,Ruim,3.5,10,10,3,Não,Preto,Brasileiro
+69,André Rezende,Feminino,Solteiro,1990-12-03,Logística,Gerente,19056,Ativo,2022-06-13,,,Indicação,Ruim,3.8,7,8,2,Sim,Preto,Estrangeiro
+70,Vitória Nogueira,Feminino,Divorciado,1982-12-08,Financeiro,Assistente,2611,Ativo,2016-05-18,,,Site da Empresa,Excelente,3.2,10,9,5,Não,Pardo,Brasileiro
+71,Dr. Luiz Henrique Farias,Masculino,Casado,1987-02-14,Comercial,Coordenador,6891,Ativo,2021-01-06,,,LinkedIn,Bom,4.7,16,6,3,Sim,Branco,Brasileiro
+72,Theo Sales,Feminino,Casado,1971-10-23,Financeiro,Coordenador,18214,Desligado,2018-08-15,2021-01-10,Pedido do Funcionário,Site da Empresa,Ruim,4.2,14,1,5,Sim,Amarelo,Brasileiro
+73,Giovanna Moura,Feminino,Solteiro,1972-09-22,Logística,Coordenador,2593,Ativo,2022-07-01,,,LinkedIn,Ruim,4.5,19,4,0,Sim,Branco,Brasileiro
+74,Emilly Castro,Feminino,Viúvo,1992-09-23,Marketing,Diretor,17001,Ativo,2019-03-04,,,Site da Empresa,Bom,4.2,3,6,1,Não,Preto,Brasileiro
+75,Cecília das Neves,Masculino,Casado,2001-03-23,TI,Gerente,12492,Ativo,2023-10-11,,,Feira de Talentos,Ruim,3.4,19,8,4,Não,Pardo,Estrangeiro
+76,Isabella Barbosa,Feminino,Viúvo,1967-11-28,Financeiro,Coordenador,16986,Ativo,2016-08-13,,,Site da Empresa,Bom,4.4,2,3,5,Sim,Preto,Brasileiro
+77,Gabriela Silva,Masculino,Casado,1976-12-18,Logística,Diretor,17208,Ativo,2020-07-05,,,Feira de Talentos,Excelente,3.2,7,3,4,Sim,Indígena,Estrangeiro
+78,Vinicius Teixeira,Masculino,Casado,1997-03-21,TI,Assistente,14871,Desligado,2020-05-03,2022-01-18,Aposentadoria,Site da Empresa,Bom,2.4,7,4,4,Não,Pardo,Brasileiro
+79,Sofia Teixeira,Feminino,Divorciado,1980-08-27,Comercial,Diretor,3397,Desligado,2018-04-19,2019-03-15,Desempenho,LinkedIn,Regular,2.9,17,9,1,Não,Pardo,Estrangeiro
+80,Sra. Kamilly Santos,Feminino,Divorciado,1987-03-22,Marketing,Diretor,4456,Ativo,2021-10-27,,,Feira de Talentos,Ruim,3.4,16,3,0,Não,Preto,Brasileiro
+81,Nicole Santos,Feminino,Casado,1989-03-04,TI,Diretor,12743,Ativo,2018-11-30,,,Feira de Talentos,Ruim,4.7,8,7,2,Não,Amarelo,Brasileiro
+82,Esther Lima,Masculino,Viúvo,1994-05-26,Marketing,Coordenador,11472,Desligado,2022-09-07,2023-02-25,Desempenho,LinkedIn,Excelente,2.9,17,6,2,Sim,Amarelo,Estrangeiro
+83,Sra. Rebeca Costela,Feminino,Solteiro,1976-05-05,TI,Assistente,13191,Desligado,2015-08-08,2021-03-13,Desempenho,Agência de Empregos,Ruim,2.4,4,10,2,Sim,Amarelo,Brasileiro
+84,Stephany Nascimento,Masculino,Solteiro,1999-04-24,Comercial,Gerente,11826,Desligado,2023-05-06,2024-03-11,Pedido do Funcionário,LinkedIn,Ruim,3.6,13,5,3,Sim,Branco,Estrangeiro
+85,Marcos Vinicius Lopes,Masculino,Solteiro,1976-09-20,TI,Analista,9588,Desligado,2016-05-09,2025-03-02,Desempenho,Feira de Talentos,Ruim,2.8,18,10,5,Não,Branco,Brasileiro
+86,Rafaela da Mata,Feminino,Viúvo,2005-01-17,Financeiro,Gerente,11343,Desligado,2018-04-26,2024-07-25,Pedido do Funcionário,Indicação,Ruim,2.0,6,3,4,Não,Branco,Estrangeiro
+87,Maria Sophia Ramos,Feminino,Viúvo,1965-11-23,TI,Coordenador,4450,Desligado,2019-12-23,2024-10-29,Aposentadoria,Site da Empresa,Bom,3.2,7,5,4,Não,Branco,Estrangeiro
+88,Maria Vitória Nogueira,Feminino,Divorciado,1992-09-10,Marketing,Assistente,11663,Desligado,2023-05-08,2024-05-20,Desempenho,Indicação,Ruim,4.2,3,3,1,Não,Preto,Brasileiro
+89,Yuri da Rocha,Feminino,Solteiro,1966-11-27,Recursos Humanos,Assistente,2819,Ativo,2022-05-17,,,Site da Empresa,Bom,4.3,3,8,3,Sim,Indígena,Brasileiro
+90,Vitor Hugo Mendes,Masculino,Solteiro,1985-01-24,Comercial,Analista,17475,Desligado,2015-06-19,2015-07-17,Reestruturação,LinkedIn,Regular,4.5,16,6,3,Sim,Amarelo,Estrangeiro
+91,Sra. Luana Pinto,Masculino,Solteiro,1972-07-24,Recursos Humanos,Analista,19592,Desligado,2017-06-18,2017-09-25,Desempenho,Feira de Talentos,Regular,4.9,18,4,2,Não,Preto,Brasileiro
+92,Valentina da Conceição,Masculino,Divorciado,1995-12-20,Financeiro,Assistente,10733,Ativo,2022-11-16,,,Indicação,Regular,4.3,14,4,4,Sim,Branco,Brasileiro
+93,Isis Vieira,Masculino,Viúvo,1996-06-20,Financeiro,Gerente,3253,Desligado,2021-03-12,2022-07-26,Pedido do Funcionário,LinkedIn,Bom,2.8,18,7,2,Sim,Preto,Brasileiro
+94,Srta. Amanda da Costa,Feminino,Divorciado,1965-05-24,Marketing,Assistente,7736,Desligado,2017-04-10,2022-05-31,Pedido do Funcionário,Agência de Empregos,Excelente,3.1,1,8,0,Sim,Branco,Estrangeiro
+95,Lucas Gabriel Ferreira,Masculino,Solteiro,1991-07-12,Recursos Humanos,Assistente,16403,Desligado,2020-02-01,2021-05-28,Reestruturação,Feira de Talentos,Excelente,3.2,8,1,3,Não,Preto,Brasileiro
+96,Bárbara da Cruz,Feminino,Casado,1996-10-24,Comercial,Gerente,5667,Ativo,2022-02-23,,,Indicação,Bom,2.6,10,3,4,Sim,Pardo,Brasileiro
+97,Luiz Fernando da Costa,Feminino,Viúvo,1969-12-14,Logística,Gerente,8745,Ativo,2023-10-17,,,LinkedIn,Bom,4.4,11,4,0,Sim,Indígena,Estrangeiro
+98,Sra. Valentina Ferreira,Feminino,Solteiro,1995-11-06,TI,Diretor,19722,Ativo,2020-04-08,,,Agência de Empregos,Ruim,2.1,17,4,0,Não,Preto,Estrangeiro
+99,Clara da Cunha,Feminino,Viúvo,1968-10-31,Marketing,Diretor,15605,Ativo,2023-11-02,,,Indicação,Bom,4.5,15,1,4,Sim,Branco,Brasileiro
+100,Diego Carvalho,Feminino,Solteiro,1997-07-03,Comercial,Diretor,7894,Ativo,2018-02-17,,,Feira de Talentos,Excelente,3.6,13,0,4,Não,Branco,Brasileiro
+101,Ana Teixeira,Masculino,Casado,1967-11-09,Comercial,Coordenador,6725,Desligado,2017-01-28,2024-07-31,Aposentadoria,Feira de Talentos,Ruim,2.2,5,9,2,Não,Preto,Brasileiro
+102,Alexia Freitas,Feminino,Solteiro,1989-02-15,Financeiro,Analista,14862,Ativo,2017-02-18,,,Agência de Empregos,Bom,3.1,6,0,3,Não,Amarelo,Brasileiro
+103,Maria Alice Monteiro,Feminino,Divorciado,1988-05-04,Logística,Gerente,16125,Ativo,2020-06-20,,,Feira de Talentos,Regular,4.3,15,2,2,Não,Preto,Brasileiro
+104,Nicolas Silva,Feminino,Divorciado,1968-08-05,Financeiro,Assistente,4907,Ativo,2017-03-25,,,Feira de Talentos,Bom,4.6,10,1,4,Sim,Preto,Brasileiro
+105,Nathan Ferreira,Feminino,Casado,1971-10-04,Logística,Analista,13304,Ativo,2020-06-13,,,LinkedIn,Bom,4.0,15,2,4,Sim,Preto,Estrangeiro
+106,Felipe Ribeiro,Masculino,Viúvo,1983-08-18,TI,Analista,19279,Ativo,2021-12-03,,,Feira de Talentos,Regular,2.1,3,6,5,Sim,Pardo,Estrangeiro
+107,Ana Vitória Farias,Masculino,Viúvo,1982-02-11,TI,Gerente,5212,Desligado,2018-12-13,2021-01-15,Desempenho,Site da Empresa,Regular,2.5,15,3,5,Sim,Indígena,Estrangeiro
+108,Srta. Lorena da Rosa,Feminino,Viúvo,2003-12-07,Logística,Gerente,14627,Desligado,2019-08-18,2022-01-27,Pedido do Funcionário,Agência de Empregos,Excelente,3.2,17,2,3,Não,Amarelo,Brasileiro
+109,Sofia da Rosa,Feminino,Solteiro,1968-02-15,Financeiro,Assistente,4423,Desligado,2019-07-31,2023-10-28,Desempenho,Feira de Talentos,Excelente,3.1,1,4,0,Sim,Preto,Brasileiro
+110,Pedro Santos,Masculino,Divorciado,1996-03-20,Marketing,Assistente,14862,Ativo,2018-10-31,,,Feira de Talentos,Ruim,2.2,12,5,2,Sim,Branco,Estrangeiro
+111,Matheus Nascimento,Feminino,Divorciado,2000-05-20,Logística,Analista,11770,Desligado,2015-08-21,2017-06-24,Aposentadoria,Feira de Talentos,Excelente,3.4,15,8,1,Não,Branco,Estrangeiro
+112,Melissa Cardoso,Feminino,Divorciado,1967-03-26,Recursos Humanos,Assistente,10491,Desligado,2019-03-06,2024-09-11,Pedido do Funcionário,Feira de Talentos,Excelente,4.8,14,7,2,Sim,Preto,Estrangeiro
+113,Sabrina Martins,Masculino,Viúvo,1999-01-19,Logística,Assistente,11035,Desligado,2023-10-29,2025-02-22,Pedido do Funcionário,LinkedIn,Excelente,3.2,2,6,2,Não,Pardo,Brasileiro
+114,Maria Vitória da Paz,Feminino,Viúvo,2000-09-06,Comercial,Diretor,5962,Desligado,2020-04-05,2022-12-30,Aposentadoria,Feira de Talentos,Regular,3.8,4,9,2,Não,Branco,Estrangeiro
+115,Levi Silva,Feminino,Casado,1996-04-06,Logística,Diretor,16691,Ativo,2019-04-07,,,Site da Empresa,Ruim,2.1,13,6,2,Sim,Amarelo,Brasileiro
+116,Anthony Silveira,Masculino,Solteiro,1993-09-18,TI,Coordenador,11087,Ativo,2019-12-31,,,Site da Empresa,Excelente,2.7,15,5,2,Sim,Pardo,Brasileiro
+117,Carlos Eduardo Azevedo,Masculino,Casado,1981-06-21,Comercial,Assistente,13581,Ativo,2016-02-23,,,Indicação,Bom,2.5,20,9,2,Não,Amarelo,Estrangeiro
+118,Arthur Pereira,Masculino,Divorciado,1968-12-30,Financeiro,Coordenador,3291,Ativo,2021-03-28,,,LinkedIn,Bom,3.1,16,3,4,Não,Amarelo,Brasileiro
+119,Cauê Gomes,Feminino,Viúvo,1964-12-10,Logística,Gerente,13069,Ativo,2017-03-10,,,LinkedIn,Ruim,3.2,11,4,4,Não,Preto,Estrangeiro
+120,Carolina da Cruz,Masculino,Casado,1994-03-03,Logística,Diretor,7096,Desligado,2024-02-03,2024-07-02,Pedido do Funcionário,LinkedIn,Regular,3.7,8,8,2,Sim,Pardo,Brasileiro
