@@ -35,6 +35,6 @@ A empresa fictícia enfrentava desafios comuns no ambiente corporativo: Turnover
 3. Explorar filtros e interações.
 
 ## 📬 Contato
-> Desenvolvido por [Nathália Camargo]  
+> Desenvolvido por Nathália Camargo  
 > [LinkedIn](https://www.linkedin.com/in/nathalia-camargo/) | [Site](https://sites.google.com/view/nathalia-camargo/)
 
